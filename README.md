@@ -3,7 +3,7 @@ This is a simple weather app project built using HTML, CSS, and JavaScript. It a
 
 # Features
 Weather Information: Display current temperature, weather icon, and description.
-Location Input: Users can enter their location (city or zip code) to fetch weather data.
+Location Input: Users can enter their location (city) to fetch weather data.
 Responsive Design: The app is designed to work on various screen sizes, from desktop to mobile devices.
 
 # Credits
